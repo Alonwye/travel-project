@@ -23,7 +23,7 @@ section {
 }
 
 .main-img {
-  max-width: 600px;
+  max-width: 100%;
 }
 
 body {
@@ -173,10 +173,6 @@ footer li {
   .grid {
     grid-template-columns: 1fr;
     grid-gap: 32px;
-  }
-
-  .main-img {
-    max-width: 350px;
   }
 
   section {
